@@ -13,7 +13,7 @@ This is a media kit for `evacuate`. It includes logo, introduction, etc.
                 <img src="./assets/rounded/logo.png" width="75px">
             </td>
             <td>
-                Please make sure to use the same color as the logo on the left side.<br />
+                Please make sure to use the same color as the logo on the left side.
                 Please read the "Logo Usage Guidelines" for more details.
             </td>
         </tr>
