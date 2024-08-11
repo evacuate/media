@@ -54,3 +54,11 @@ To download the file, click the button on [GitHub](https://github.com/evacuate/m
 ## Introduction
 
 `evacuate` is a service to support evacuation in the event of a disaster. Currently, it only provides information on earthquakes, but in the future, it will also provide information on evacuation centers and other useful information during disasters.
+
+## Name
+
+The name `evacuate` is derived from the word "evacuation," which means "to leave a place of danger to a safer place." The name was chosen to reflect the service's mission of providing information to help people evacuate safely.
+
+## Contact
+
+If you have any questions or need further information, please contact us at [contact@evacuate.jp](mailto:contact@evacuate.jp).
