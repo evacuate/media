@@ -59,6 +59,8 @@ To download the file, click the button on [GitHub](https://github.com/evacuate/m
 
 The name `evacuate` is derived from the word "evacuation," which means "to leave a place of danger to a safer place." The name was chosen to reflect the service's mission of providing information to help people evacuate safely.
 
+Please make sure to use lower case letters for names
+
 ## Contact
 
 If you have any questions or need further information, please contact us at [contact@evacuate.jp](mailto:contact@evacuate.jp).
