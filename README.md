@@ -10,7 +10,7 @@ This is a media kit for `evacuate`. It includes logo, introduction, etc.
     <tbody>
         <tr>
             <td rowspan="2">
-                <img src="./assets/rounded/logo.png" width="75px">
+                <img src="./assets/logo.png" width="75px">
             </td>
             <td>
                 Please make sure to use the same color as the logo on the left side.
