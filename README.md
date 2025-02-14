@@ -63,4 +63,4 @@ Please make sure to use lower case letters for names
 
 ## Contact
 
-If you have any questions or need further information, please contact us at [contact@evacuate.jp](mailto:contact@evacuate.jp).
+If you have any questions or need further information, please contact us at [hello@evacuate.io](mailto:hello@evacuate.io).
